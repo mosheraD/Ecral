@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Ecral/static/css/main.8a4622c9.chunk.css",
-    "main.js": "/Ecral/static/js/main.1bab22ed.chunk.js",
-    "main.js.map": "/Ecral/static/js/main.1bab22ed.chunk.js.map",
+    "main.js": "/Ecral/static/js/main.4ff82b60.chunk.js",
+    "main.js.map": "/Ecral/static/js/main.4ff82b60.chunk.js.map",
     "runtime-main.js": "/Ecral/static/js/runtime-main.4d6d8dc3.js",
     "runtime-main.js.map": "/Ecral/static/js/runtime-main.4d6d8dc3.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/Ecral/static/css/2.20aa2d7b.chunk.css",
@@ -35,6 +35,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.9df4153b.chunk.js",
     "static/css/main.8a4622c9.chunk.css",
-    "static/js/main.1bab22ed.chunk.js"
+    "static/js/main.4ff82b60.chunk.js"
   ]
 }
