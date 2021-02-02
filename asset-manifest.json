@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Ecral/static/css/main.490037d0.chunk.css",
-    "main.js": "/Ecral/static/js/main.312aa6ba.chunk.js",
-    "main.js.map": "/Ecral/static/js/main.312aa6ba.chunk.js.map",
+    "main.css": "/Ecral/static/css/main.9efb9fd2.chunk.css",
+    "main.js": "/Ecral/static/js/main.e979366a.chunk.js",
+    "main.js.map": "/Ecral/static/js/main.e979366a.chunk.js.map",
     "runtime-main.js": "/Ecral/static/js/runtime-main.8c4f3973.js",
     "runtime-main.js.map": "/Ecral/static/js/runtime-main.8c4f3973.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/Ecral/static/css/2.20aa2d7b.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.aefe6a6a.chunk.js.map": "/Ecral/static/js/3.aefe6a6a.chunk.js.map",
     "index.html": "/Ecral/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/Ecral/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.490037d0.chunk.css.map": "/Ecral/static/css/main.490037d0.chunk.css.map",
+    "static/css/main.9efb9fd2.chunk.css.map": "/Ecral/static/css/main.9efb9fd2.chunk.css.map",
     "static/js/2.b5add032.chunk.js.LICENSE.txt": "/Ecral/static/js/2.b5add032.chunk.js.LICENSE.txt",
     "static/media/ECRAL-Logo.41026c18.png": "/Ecral/static/media/ECRAL-Logo.41026c18.png",
     "static/media/long-term.styles.css": "/Ecral/static/media/R.281cbcfb.png",
@@ -34,7 +34,7 @@
     "static/js/runtime-main.8c4f3973.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.b5add032.chunk.js",
-    "static/css/main.490037d0.chunk.css",
-    "static/js/main.312aa6ba.chunk.js"
+    "static/css/main.9efb9fd2.chunk.css",
+    "static/js/main.e979366a.chunk.js"
   ]
 }
